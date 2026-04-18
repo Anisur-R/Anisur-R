@@ -9,7 +9,7 @@ I am a **Software Engineering graduate** with a deep passion for building scalab
 ### 🎓 Academic & Professional Background
 * **B.Sc. in Software Engineering** – Focusing on core engineering principles and software architecture.
 * **PGD in Data Science** – Specialized in Python, Machine Learning, Deep Learning, and SQL.
-* **Web Specialist** – Experienced in WordPress, WooCommerce, and E-commerce solutions.
+* **Web Specialist** – Experienced in web design & development, WordPress, WooCommerce, and E-commerce solutions.
 
 ---
 
