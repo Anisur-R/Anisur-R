@@ -39,7 +39,7 @@ Currently, I am refining my profile and technical portfolio to pursue a **Master
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** anisurrahaman.live
+* **LinkedIn:** https://www.linkedin.com/in/anisur-rn
 * **Portfolio:** anisurrahaman.live
 * **Email:** anisur35-2281@diu.edu.bd
 
